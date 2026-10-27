@@ -1,7 +1,7 @@
 {
-  "version": "1.1.17",
-  "versionCode": 17,
-  "apkUrl": "https://github.com/kesslergpt-dev/tymdulce-releases1/releases/download/apk-17/app-debug.apk",
-  "sha256": "128dbc28b182a5648f8323163bc20ac0cdff169c4f136b23141e19714617926d",
+  "version": "1.1.18",
+  "versionCode": 18,
+  "apkUrl": "https://github.com/kesslergpt-dev/tymdulce-releases1/releases/download/apk-18/app-debug.apk",
+  "sha256": "c2c92807462a4ea9e29b27c4c39fa2af05f9b54da166e27fe0f688b292721260",
   "releaseNotes": "Actualización de TyM Dulce para Android."
 }
